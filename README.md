@@ -31,9 +31,9 @@ I build **scalable, responsive, and high-performance web applications** using mo
 ---
 
 ### 📂 Projects
-- [E-Commerce App](https://github.com/yourusername/project1) 🛒 - MERN + Redux + Stripe Payment  
-- [Chat Application](https://github.com/yourusername/project2) 💬 - Real-time Chat with Socket.io  
-- [Portfolio Website](https://github.com/yourusername/project3) 🌐 - Responsive Personal Portfolio  
+- [E-Commerce App](https://mega-ecommerce-frontend.vercel.app/) 🛒 - MERN + Redux + Stripe Payment  
+- [Chat Application](https://www.bdcallingacademy.com/) 💬 - Mega LMS Project 
+- [Portfolio Website](https://zayeduddin.com/) 🌐 - Personal Portfolio, LMS & Marketplace
 
 ---
 
