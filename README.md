@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" width="150" alt="Profile Picture"/>
+
 </div>
 
 <h1 align="center">Hi there 👋, I'm Sakib Hasan</h1>
