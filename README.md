@@ -31,7 +31,7 @@ I build **scalable, responsive, and high-performance web applications** using mo
 ---
 
 ### 📂 Projects
-- [E-Commerce App](https://mega-ecommerce-frontend.vercel.app/) 🛒 - MERN + Redux + Stripe Payment  
+- [E-Commerce App](https://kindi-mart-client.vercel.app/) 🛒 - MERN + Redux + Stripe Payment  
 - [LMS](https://www.bdcallingacademy.com/) 💬 - Mega LMS Project 
 - [Portfolio Website](https://zayeduddin.com/) 🌐 - Personal Portfolio, LMS & Marketplace
 
